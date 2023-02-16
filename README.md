@@ -10,11 +10,26 @@
     - Incorporate the Semantics widget to facilitate accessibility features of native platforms.
     - Demonstrate the use of analytics, crash reporting, and debugging tools. 
 
-## Application 
-    ### Main Screen 
-        - User is able to see list of posts uploaded in application. 
-        - User selects option(button) to make new post
-        ![MainScreen!]("appScreenshots/list-of-posts.png")
+## Application Usage
+### Main Screen 
+- User is able to see list of posts uploaded in application. 
+- Number of total leftover items is shown on the top part of the screen. 
+- User selects option(camera button) to make a new post.
+![MainScreen!](appScreenshots/list-of-posts.png)
     
-    ### New Post
-    
+### New Post Screen
+- User selects image from camera or library, adds number of leftover items and sumbmits the post.
+![NewPost!](appScreenshots/create-new-post.png)
+
+### Main Screen Updated
+- User is able to see the new post included in the main screen.
+- User selects the first post in the list.
+![MainScreenUpdated!](appScreenshots/list-of-all-posts.png)
+
+### Post Detail Screen
+- User is able to see the details of the selected post:
+    - Date
+    - Image of leftover items
+    - Amount of leftover items
+    - Location of leftover items
+![DetailScreen!](appScreenshots/post-detail-screen.png)
