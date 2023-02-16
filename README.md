@@ -1,8 +1,8 @@
 # Food-Waste-FlutterApp
 
 ## Overview
-- This application enables a user to document daily food waste, consisting of a photo, number of leftover items, current date and location of item(device).
-- This projects has the objective to showcase several mobile/flutter features implemented in the application. 
+- This application enables a user to document daily food waste, consisting of a photo, number of leftover items, current date, and location of item(device).
+- This project aims to showcase several mobile/flutter features implemented in the application. 
     - Invoke asynchronous methods, employ navigation, capture form data, and display data in ListView components and detail screens.
     - Demonstrate persistence with remote storage services, such as Firebase Cloud Storage and a Firestore database.
     - Obtain device location information and integrate the use of the camera or photo gallery.
@@ -12,19 +12,19 @@
 
 ## Application Usage
 ### Main Screen 
-- User is able to see list of posts uploaded in application. 
+- The user can see the list of posts uploaded in the application. 
 - Number of total leftover items is shown on the top part of the screen. 
 - User selects option(camera button) to make a new post.
 
 <img src="https://github.com/AnnaBKC/Food-Waste-FlutterApp/blob/main/appScreenshots/list-of-posts.png" height=600>
 
 ### New Post Screen
-- User selects image from camera or library, adds number of leftover items and sumbmits the post.
+- User selects an image from the camera or photo gallery, adds a number of leftover items, and submits the post.
 
 <img src="https://github.com/AnnaBKC/Food-Waste-FlutterApp/blob/main/appScreenshots/create-new-post.png" height=600>
 
 ### Main Screen Updated
-- User is able to see the new post included in the main screen.
+- The user is able to see the new post included on the main screen.
 - User selects the first post in the list.
 
 <img src="https://github.com/AnnaBKC/Food-Waste-FlutterApp/blob/main/appScreenshots/list-of-all-posts.png" height=600>
