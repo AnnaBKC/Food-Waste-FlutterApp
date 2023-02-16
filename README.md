@@ -15,16 +15,19 @@
 - User is able to see list of posts uploaded in application. 
 - Number of total leftover items is shown on the top part of the screen. 
 - User selects option(camera button) to make a new post.
-![MainScreen!](appScreenshots/list-of-posts.png)
-    
+
+<img src="https://github.com/AnnaBKC/Food-Waste-FlutterApp/blob/main/appScreenshots/list-of-posts.png" height=900>
+
 ### New Post Screen
 - User selects image from camera or library, adds number of leftover items and sumbmits the post.
-![NewPost!](appScreenshots/create-new-post.png)
+
+<img src="https://github.com/AnnaBKC/Food-Waste-FlutterApp/blob/main/appScreenshots/create-new-post.png" height=900>
 
 ### Main Screen Updated
 - User is able to see the new post included in the main screen.
 - User selects the first post in the list.
-![MainScreenUpdated!](appScreenshots/list-of-all-posts.png)
+
+<img src="https://github.com/AnnaBKC/Food-Waste-FlutterApp/blob/main/appScreenshots/list-of-all-posts.png" height=900>
 
 ### Post Detail Screen
 - User is able to see the details of the selected post:
@@ -32,4 +35,5 @@
     - Image of leftover items
     - Amount of leftover items
     - Location of leftover items
-![DetailScreen!](appScreenshots/post-detail-screen.png)
+
+<img src="https://github.com/AnnaBKC/Food-Waste-FlutterApp/blob/main/appScreenshots/post-detail-screen.png" height=900>
