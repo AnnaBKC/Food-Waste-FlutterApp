@@ -10,6 +10,12 @@
     - Incorporate the Semantics widget to facilitate accessibility features of native platforms.
     - Demonstrate the use of analytics, crash reporting, and debugging tools. 
 
+## Technology Stack
+- Flutter
+- Dart
+- Google Firebase Cloud Storage
+- Google in-app analytics
+
 ## Application Usage
 ### Main Screen 
 - The user can see the list of posts uploaded in the application. 
