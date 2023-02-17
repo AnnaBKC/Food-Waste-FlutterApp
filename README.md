@@ -1,4 +1,4 @@
-# Food-Waste-FlutterApp
+# Food Waste Flutter Application
 
 ## Overview
 - This application enables a user to document daily food waste, consisting of a photo, number of leftover items, current date, and location of item(device).
